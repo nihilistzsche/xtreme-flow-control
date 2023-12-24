@@ -12,7 +12,7 @@ data:extend({
 		place_result = "concrete-pipe-elbow",
 		stack_size = 50,
 		subgroup = pipe_subgroup,
-		order = "b[pipe]-a[pipe]l",
+		order = "b[pipe]-a[pipe]o",
 		type = "item",
 	},
 	{
@@ -22,7 +22,7 @@ data:extend({
 		place_result = "concrete-pipe-straight",
 		stack_size = 50,
 		subgroup = pipe_subgroup,
-		order = "b[pipe]-a[pipe]m",
+		order = "b[pipe]-a[pipe]p",
 		type = "item",
 	},
 	{
@@ -32,7 +32,7 @@ data:extend({
 		place_result = "concrete-pipe-t-junction",
 		stack_size = 50,
 		subgroup = pipe_subgroup,
-		order = "b[pipe]-a[pipe]n",
+		order = "b[pipe]-a[pipe]q",
 		type = "item",
 	},
 	{
@@ -72,7 +72,7 @@ data:extend({
 		place_result = "plastic-pipe-elbow",
 		stack_size = 50,
 		subgroup = pipe_subgroup,
-		order = "b[pipe]-a[pipe]o",
+		order = "b[pipe]-a[pipe]u",
 		type = "item",
 	},
 	{
@@ -82,7 +82,7 @@ data:extend({
 		place_result = "plastic-pipe-straight",
 		stack_size = 50,
 		subgroup = pipe_subgroup,
-		order = "b[pipe]-a[pipe]p",
+		order = "b[pipe]-a[pipe]v",
 		type = "item",
 	},
 	{
@@ -92,7 +92,7 @@ data:extend({
 		place_result = "concrete-pipe-t-junction",
 		stack_size = 50,
 		subgroup = pipe_subgroup,
-		order = "b[pipe]-a[pipe]q",
+		order = "b[pipe]-a[pipe]w",
 		type = "item",
 	},
 	{
@@ -102,7 +102,7 @@ data:extend({
 		place_result = "stone-pipe-elbow",
 		stack_size = 50,
 		subgroup = pipe_subgroup,
-		order = "b[pipe]-a[pipe]c",
+		order = "b[pipe]-a[pipe]i",
 		type = "item",
 	},
 	{
@@ -112,7 +112,7 @@ data:extend({
 		place_result = "stone-pipe-straight",
 		stack_size = 50,
 		subgroup = pipe_subgroup,
-		order = "b[pipe]-a[pipe]d",
+		order = "b[pipe]-a[pipe]j",
 		type = "item",
 	},
 	{
@@ -122,7 +122,7 @@ data:extend({
 		place_result = "stone-pipe-t-junction",
 		stack_size = 50,
 		subgroup = pipe_subgroup,
-		order = "b[pipe]-a[pipe]e",
+		order = "b[pipe]-a[pipe]k",
 		type = "item",
 	},
 })

@@ -9,3 +9,13 @@ for _, pipe_type in pairs(pipe_types) do
     end
 end
 
+if mods["k2-flow-control-bridge"] then
+    data.raw.item["steel-pipe-elbow"].order="b[pipe]-a[pipe]l"
+    data.raw.item["steel-pipe-straight"].order="b[pipe]-a[pipe]m"
+    data.raw.item["steel-pipe-t-junction"].order="b[pipe]-a[pipe]n"
+end
+if mods["se-flow-control-bridge"] then
+    data.raw.item["space-pipe-elbow"].order="b[pipe]-a[pipe]x"
+    data.raw.item["space-pipe-straight"].order="b[pipe]-a[pipe]y"
+    data.raw.item["space-pipe-t-junction"].order="b[pipe]-a[pipe]z"
+end
