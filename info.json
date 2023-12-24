@@ -1,0 +1,9 @@
+{
+	"name": "xtreme-flow-control",
+	"version": "0.9.0",
+	"title": "xtreme-fishing Flow Control Bridge",
+	"author": "nihilistzsche",
+	"description": "Adds Concrete/Copper/Plastic/Stone Pipe Variants Of Flow Control's Pipe Junctions",
+	"factorio_version": "1.1",
+	"dependencies": ["Flow Control", "xtreme-fishing"]
+}

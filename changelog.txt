@@ -1,0 +1,22 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.0.3
+Date: 2023-10-15
+  Changes:
+    - Fixed junction health to match steel pipe health
+    - Added support for the standalone steel pipes mod
+---------------------------------------------------------------------------------------------------
+Version: 1.0.2
+Date: 2023-10-01
+  Changes:
+    - Steel pipe junctions, elbows, and straights will now match steel pipes flow rate
+    - Connection arrows should be properly hidden/shown when enabled/disabled
+---------------------------------------------------------------------------------------------------
+Version: 1.0.1
+Date: 2023-09-30
+  Changes:
+    - Locale fixes
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 2023-09-30
+  Changes:
+    - Initial Release
