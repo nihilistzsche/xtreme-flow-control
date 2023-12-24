@@ -89,7 +89,7 @@ data:extend({
 		name = "plastic-pipe-t-junction",
 		icon = "__xtreme-flow-control__/graphics/icon/plastic-pipe-t-junction.png",
 		icon_size = 64,
-		place_result = "concrete-pipe-t-junction",
+		place_result = "plastic-pipe-t-junction",
 		stack_size = 50,
 		subgroup = pipe_subgroup,
 		order = "b[pipe]-a[pipe]w",
